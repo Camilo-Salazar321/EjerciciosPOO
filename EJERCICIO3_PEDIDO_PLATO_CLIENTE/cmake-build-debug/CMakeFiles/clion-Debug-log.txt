@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2024.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Asus\Desktop\POO\Repositorios_GIT\EJERCICIO3_PEDIDO_PLATO_CLIENTE -B C:\Users\Asus\Desktop\POO\Repositorios_GIT\EJERCICIO3_PEDIDO_PLATO_CLIENTE\cmake-build-debug
+-- Configuring done (0.5s)
+-- Generating done (0.2s)
+-- Build files have been written to: C:/Users/Asus/Desktop/POO/Repositorios_GIT/EJERCICIO3_PEDIDO_PLATO_CLIENTE/cmake-build-debug

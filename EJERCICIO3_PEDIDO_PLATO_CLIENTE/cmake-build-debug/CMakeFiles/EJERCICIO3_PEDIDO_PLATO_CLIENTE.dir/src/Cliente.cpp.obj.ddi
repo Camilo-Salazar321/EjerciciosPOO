@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\EJERCICIO3_PEDIDO_PLATO_CLIENTE.dir\\src\\Cliente.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

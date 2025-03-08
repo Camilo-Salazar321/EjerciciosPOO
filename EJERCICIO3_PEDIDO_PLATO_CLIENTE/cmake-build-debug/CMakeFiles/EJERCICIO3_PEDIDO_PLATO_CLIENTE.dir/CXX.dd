@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/EJERCICIO3_PEDIDO_PLATO_CLIENTE.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/EJERCICIO3_PEDIDO_PLATO_CLIENTE.dir/src/Pedido.cpp.obj: dyndep
+
+build CMakeFiles/EJERCICIO3_PEDIDO_PLATO_CLIENTE.dir/src/Cliente.cpp.obj: dyndep
+
+build CMakeFiles/EJERCICIO3_PEDIDO_PLATO_CLIENTE.dir/src/Plato.cpp.obj: dyndep
+
