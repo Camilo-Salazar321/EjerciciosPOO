@@ -1,0 +1,3 @@
+C:/Users/Asus/Desktop/POO/Repositorios_GIT/EJERCICIO2_USUARIO_LIBRO/cmake-build-debug/CMakeFiles/EJERCICIO2_USUARIO_LIBRO.dir
+C:/Users/Asus/Desktop/POO/Repositorios_GIT/EJERCICIO2_USUARIO_LIBRO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Desktop/POO/Repositorios_GIT/EJERCICIO2_USUARIO_LIBRO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
